@@ -1,4 +1,5 @@
-Foosbar: A computer game based on Foosball.
+# Foosbar: A computer game based on Foosball.
+
 Controls:
 
 | Action        | Key |
